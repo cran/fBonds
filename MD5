@@ -1,8 +1,6 @@
-3dbd22f64ac48b9715b56f3c1cbf25de *ChangeLog
-c22c38a9cdf7f86b404cc2b1b47cf007 *DESCRIPTION
+d62f2ecccf19c00add4fe4325069afb3 *ChangeLog
+025fc262d8beb351abe8ce1eb2bcbafa *DESCRIPTION
 c03fbe537c72d3d2b1eba46e2993c16f *NAMESPACE
 2275bb12d8b7855c89f2a0a2147cd002 *R/TermStructure.R
-b1885a22725a4e24af8b2b223e8babe7 *R/zzz.R
-6042b9c5e5bec3ecc1b6959cd2858b64 *inst/COPYRIGHT.html
-94c66d4595390adb508d20fe196ddc50 *man/TermStructure.Rd
-91d96f5ee62d7425d7bacbce53ed491f *test/doRUnit.R
+7e7218f9c5459662b503077ccbcc7a16 *R/zzz.R
+23dd8a238b2413d36a3c734fa872a00c *man/TermStructure.Rd
