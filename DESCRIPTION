@@ -1,21 +1,19 @@
 Package: fBonds
-Version: 3010.77
-Revision: 5531
-Date: 2013-12-17
-Title: Bonds and Interest Rate Models
-Author: Diethelm Wuertz and many others, see the SOURCE file
-Depends: R (>= 2.4.0), timeDate, timeSeries, fBasics
+Title: Rmetrics - Pricing and Evaluating Bonds
+Date: 2017-11-12
+Version: 3042.78
+Author: Diethelm Wuertz [aut],
+    Tobias Setz [cre]
+Maintainer: Tobias Setz <tobias.setz@live.com>
+Description: It implements the Nelson-Siegel and the Nelson-Siegel-Svensson
+	term structures.
+Depends: R (>= 2.15.1), timeDate, timeSeries, fBasics
+Imports: graphics, stats
 Suggests: RUnit
-Maintainer: Yohan Chalabi <yohan.chalabi@rmetrics.org>
-Description: Environment for teaching "Financial Engineering and
-        Computational Finance"
-Note: Several parts are still preliminary and may be changed in the
-        future. this typically includes function and argument names, as
-        well as defaults for arguments and return values.
 LazyData: yes
 License: GPL (>= 2)
 URL: http://www.rmetrics.org
-Packaged: 2013-12-17 21:27:46 UTC; yohan
 NeedsCompilation: no
+Packaged: 2017-11-15 19:16:28 UTC; Tobias Setz
 Repository: CRAN
-Date/Publication: 2013-12-17 23:16:42
+Date/Publication: 2017-11-15 22:30:09 UTC

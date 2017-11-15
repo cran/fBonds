@@ -1,6 +1,7 @@
-d62f2ecccf19c00add4fe4325069afb3 *ChangeLog
-025fc262d8beb351abe8ce1eb2bcbafa *DESCRIPTION
-c03fbe537c72d3d2b1eba46e2993c16f *NAMESPACE
-2275bb12d8b7855c89f2a0a2147cd002 *R/TermStructure.R
-7e7218f9c5459662b503077ccbcc7a16 *R/zzz.R
-23dd8a238b2413d36a3c734fa872a00c *man/TermStructure.Rd
+291613b72661feb80477460f21e1e28b *ChangeLog
+76dc84d5fe06410a6a0db6bf592d8ebd *DESCRIPTION
+b5b1a48626e77a4bad95715861732652 *NAMESPACE
+52a9432f34d3ab1369ee26ff310db851 *R/TermStructure.R
+68004a5af7aee9ac71d78adf78058c2c *R/zzz.R
+a6a019b0b70b9998dde7d2bb0649d3aa *man/00fBonds-package.Rd
+09bfdf57cc8b47226db039f6dad4bfe6 *man/TermStructure.Rd

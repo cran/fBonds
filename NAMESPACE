@@ -1,7 +1,6 @@
 
 ################################################
-## Note this file has been automatically
-## generated --- Do not edit it.
+## fBonds
 ################################################
 
 
@@ -13,20 +12,14 @@ import("timeDate")
 import("timeSeries")
 import("fBasics")
 
-################################################
-## S4 classes
-################################################
-
-
-################################################
-## S3 classes
-################################################
+importFrom("graphics", contour, grid, image, persp, title)
+importFrom("stats", nlminb)
 
 
 ################################################
 ## functions
 ################################################
 
-export(
-    "NelsonSiegel",
-    "Svensson" )
+exportPattern(".")
+
+
